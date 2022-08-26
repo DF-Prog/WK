@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/26 06:46:45.000.195,=C:\Users\pc3\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/26 06:47:07.000.615,C:\Delphi\WK\src\uPrincipal.pas=C:\Users\pc3\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/26 06:47:07.000.615,C:\Delphi\WK\src\uPrincipal.dfm=C:\Users\pc3\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/08/26 06:47:13.000.741,C:\Delphi\WK\src\PDV.dproj=C:\Users\pc3\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/08/26 06:51:41.000.863,=C:\Delphi\WK\src\Unit1.pas</Transaction>
+    <Transaction>2022/08/26 07:07:12.000.612,C:\Delphi\WK\src\uDM.pas=C:\Delphi\WK\src\Unit1.pas</Transaction>
+    <Transaction>2022/08/26 07:07:12.000.612,C:\Delphi\WK\src\uDM.dfm=C:\Delphi\WK\src\Unit1.dfm</Transaction>
+    <Transaction>2022/08/26 08:02:59.000.486,=C:\Delphi\WK\src\Unit1.pas</Transaction>
+    <Transaction>2022/08/26 08:03:21.000.389,C:\Delphi\WK\src\Unit1.pas=C:\Delphi\WK\src\uClassProdutos.pas</Transaction>
+    <Transaction>2022/08/26 08:04:59.000.371,=C:\Delphi\WK\src\Unit1.pas</Transaction>
+    <Transaction>2022/08/26 08:05:18.000.138,C:\Delphi\WK\src\Unit1.pas=C:\Delphi\WK\src\uClassClientes.pas</Transaction>
+    <Transaction>2022/08/26 08:19:49.000.493,=C:\Delphi\WK\src\Unit1.pas</Transaction>
+    <Transaction>2022/08/26 08:21:04.000.668,C:\Delphi\WK\src\uPrincipal.pas=</Transaction>
+    <Transaction>2022/08/26 08:21:14.000.806,C:\Delphi\WK\src\Unit1.dfm=C:\Delphi\WK\src\uPrincipal.dfm</Transaction>
+    <Transaction>2022/08/26 08:21:14.000.806,C:\Delphi\WK\src\Unit1.pas=C:\Delphi\WK\src\uPrincipal.pas</Transaction>
+    <Transaction>2022/08/26 09:15:14.000.350,=C:\Delphi\WK\src\Unit1.pas</Transaction>
+    <Transaction>2022/08/26 09:15:28.000.206,C:\Delphi\WK\src\Unit1.pas=C:\Delphi\WK\src\uClassVendas.pas</Transaction>
+    <Transaction>2022/08/26 10:03:11.000.762,=C:\Delphi\WK\src\Unit1.pas</Transaction>
+    <Transaction>2022/08/26 10:06:12.000.680,C:\Delphi\WK\src\uFuncoes.pas=C:\Delphi\WK\src\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
